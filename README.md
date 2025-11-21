@@ -5,15 +5,15 @@ Live Operation Tracking System is a professional web application that allows tou
 
 Problem
 
-Tour companies commonly face the following issues:
+• Tour companies commonly face the following issues:
 
-They don’t know where their vehicles are
+• They don’t know where their vehicles are
 
-They can’t track whether passengers were picked up
+• They can’t track whether passengers were picked up
 
-Operation managers lack real-time visibility of field activities
+• Operation managers lack real-time visibility of field activities
 
-Manual tracking is time-consuming and error-prone
+• Manual tracking is time-consuming and error-prone
 
 Solution
 
@@ -31,13 +31,13 @@ With this system:
 
 Usage Scenario
 
-09:00 AM — Operation Starts
+• 09:00 AM — Operation Starts
 
-The manager views today’s tours from the dashboard
+• The manager views today’s tours from the dashboard
 
-The guide and driver press the "Start" button to begin the operation
+• The guide and driver press the "Start" button to begin the operation
 
-The system switches the status to “ACTIVE” and sends notifications to all team members
+• The system switches the status to “ACTIVE” and sends notifications to all team members
 
 09:00–09:30 — Passenger Pickup
 4. The vehicle goes to the first pickup location
@@ -95,39 +95,39 @@ Technology Stack
 
 Backend:
 
-Node.js v18+ — JavaScript runtime
+• Node.js v18+ — JavaScript runtime
 
-Express.js — Web framework
+• Express.js — Web framework
 
-TypeScript — Type-safe development
+• TypeScript — Type-safe development
 
-MongoDB — NoSQL database
+• MongoDB — NoSQL database
 
-Mongoose — ODM (Object Data Modeling)
+• Mongoose — ODM (Object Data Modeling)
 
-Socket.IO — Real-time WebSocket communication
+• Socket.IO — Real-time WebSocket communication
 
-JWT — Authentication
+• JWT — Authentication
 
-bcryptjs — Password hashing
+• bcryptjs — Password hashing
 
 Frontend:
 
-Next.js 14 — React framework (SSR, routing)
+• Next.js 14 — React framework (SSR, routing)
 
-React 18 — UI library
+• React 18 — UI library
 
-TypeScript — Type-safe development
+• TypeScript — Type-safe development
 
-Tailwind CSS — Utility-first styling
+• Tailwind CSS — Utility-first styling
 
-Google Maps JavaScript API — Map system
+• Google Maps JavaScript API — Map system
 
-Socket.IO Client — Real-time updates
+• Socket.IO Client — Real-time updates
 
-Axios — HTTP client
+• Axios — HTTP client
 
-date-fns — Date utilities
+• date-fns — Date utilities
 
 🚀 Quick Start
 Requirements
