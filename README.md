@@ -139,9 +139,9 @@ MongoDB (local or Atlas)
 
 Google Maps API Key
 
-1. Clone the Repository
-• git clone https://github.com/huseyiinozel/live-operation-tracking.git
-• cd "Live Operation Tracking"
+### 1. Clone the Repository
+- git clone https://github.com/huseyiinozel/live-operation-tracking.git
+- cd "Live Operation Tracking"
 
 ### 3. Backend Setup
 - cd backend
