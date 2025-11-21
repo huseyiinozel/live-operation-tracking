@@ -59,6 +59,7 @@ Usage Scenario
 2. Technical Architecture 🏗️
 High-Level Architecture
 
+<pre> ```text
 ┌─────────────────────────────────────────────────────────┐
 │                    CLIENT (Browser)                      │
 │  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐  │
@@ -88,7 +89,7 @@ High-Level Architecture
 │  │     Pax      │  │  Telemetry   │  │  Locations   │ │
 │  └──────────────┘  └──────────────┘  └──────────────┘ │
 └─────────────────────────────────────────────────────────┘
-
+``` </pre>
 
 
 Technology Stack
@@ -139,7 +140,7 @@ MongoDB (local or Atlas)
 Google Maps API Key
 
 1. Clone the Repository
-git clone <repository-url>
+git clone https://github.com/huseyiinozel/live-operation-tracking.git
 cd "Live Operation Tracking"
 
 2. Backend Setup
