@@ -358,7 +358,7 @@ export default function OperationMap({ operation, paxList, vehiclePosition }: Op
           </div>
           <div className="flex items-center space-x-2 pt-2 border-t border-gray-200">
             <div className="w-8 h-0.5 bg-red-500"></div>
-            <span className="text-gray-600 text-xs">Planlı Güzergah</span>
+            <span className="text-gray-600 text-xs">Planned Route</span>
           </div>
         </div>
       </div>
