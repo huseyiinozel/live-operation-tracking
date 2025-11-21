@@ -140,26 +140,26 @@ MongoDB (local or Atlas)
 Google Maps API Key
 
 1. Clone the Repository
-git clone https://github.com/huseyiinozel/live-operation-tracking.git
-cd "Live Operation Tracking"
+• git clone https://github.com/huseyiinozel/live-operation-tracking.git
+• cd "Live Operation Tracking"
 
-2. Backend Setup
-cd backend
-npm install
-Edit the .env file:
-MONGODB_URI=
-JWT_SECRET=
-npm run seed
-npm run dev
-The backend will run at http://localhost:5001.
+### 3. Backend Setup
+- cd backend
+- npm install
+- Edit the .env file:
+  - MONGODB_URI
+  - JWT_SECRET
+- npm run seed
+- npm run dev
+- The backend will run at http://localhost:5001
 
-4. Frontend Setup
-cd ../frontend
-npm install
-Edit the .env.local file:
-NEXT_PUBLIC_API_URL=http://localhost:5000
-NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
-npm run dev
+### 4. Frontend Setup
+- cd ../frontend
+- npm install
+- Edit the .env.local file:
+  - NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
+- npm run dev
+
 
 
 
