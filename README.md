@@ -236,10 +236,8 @@ chmod +x simulate-gps.sh
 ./simulate-gps.sh <Vehicle ID>
 ```
 
-**To get the Operation ID:**
-1. On the operation detail page, look at the URL
-2. Copy the ID from the URL: `http://localhost:5001/api/vehicles`
-3. Or check the terminal where you ran `npm run seed`
+**To get the Vehicle ID:**
+ The simplest way is to get the Vehicle ID associated with the operation you want to test directly from the database.
 
 **Example:**
 ```bash
@@ -349,5 +347,10 @@ In the terminal where GPS simulator is running:
 ---
 
 
+![Diagram](https://github.com/huseyiinozel/live-operation-tracking/blob/main/image/1.png)
+![Diagram](https://github.com/huseyiinozel/live-operation-tracking/blob/main/image/2.png)
+![Diagram](https://github.com/huseyiinozel/live-operation-tracking/blob/main/image/3.png)
+![Diagram](https://github.com/huseyiinozel/live-operation-tracking/blob/main/image/4.png)
+![Diagram](https://github.com/huseyiinozel/live-operation-tracking/blob/main/image/5.png)
 
 
