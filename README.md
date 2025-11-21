@@ -226,8 +226,8 @@ Google Maps API Key
 
 ### Step 4: Test Real-Time GPS Tracking
 
-Now we'll simulate a vehicle moving along the route!
-
+### Now we'll simulate a vehicle moving along the route!
+! Make sure you have started the operation before running the script.
 #### Open Terminal and Run GPS Simulator
 
 ```bash
